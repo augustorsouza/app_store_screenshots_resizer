@@ -1,4 +1,4 @@
-# App Store Screenshot Resize
+# App Store Screenshot Resizer
 
 A command line tool made in elixir to help creating screenshots for the App Store
 
